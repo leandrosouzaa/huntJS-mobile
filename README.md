@@ -69,12 +69,6 @@ Aplicação mobile desenvolvida durante o curso introdutório de react-native of
     - Compreensão de resultados da requisição;
     - Paginação de Resultados;
     
-  * Axios
-    - Configuração de API;
-    - Consumo de API;
-    - Compreensão de resultados da requisição;
-    - Paginação de Resultados;
-    
   * React-Navigation
     - Conceitos;
     - Configuração de Rotas;

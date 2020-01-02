@@ -89,6 +89,10 @@ Aplicação mobile desenvolvida durante o curso introdutório de react-native of
 
 [![app-1.jpg](https://i.postimg.cc/wjz5cZWg/app-1.jpg)](https://postimg.cc/KR9gmqSH) [![app-02.jpg](https://i.postimg.cc/wjWtyGZW/app-02.jpg)](https://postimg.cc/rDry7Q8W)
 
+## Clonagem e debug
+
+Caso clone o projeto, será necessário rodar o comando ```yarn install``` para instalar todas as dependências contidas no package.json
+
 ## Desenvolvedor:
   [@leandrosouzaa](https://github.com/leandrosouzaa)
   >A Padawan Programmer

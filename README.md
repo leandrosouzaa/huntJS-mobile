@@ -85,7 +85,13 @@ Aplicação mobile desenvolvida durante o curso introdutório de react-native of
 
 ## Clonagem e debug
 
-Caso clone o projeto, será necessário rodar o comando ```yarn install``` para instalar todas as dependências contidas no package.json
+ - Clone o projeto;
+ - Após a clonagem do projeto é necessário instalar as dependências utilizadas no desenvolvimento da aplicação.
+ - Para instalar as dependências execute o comando ```yarn install``` na pasta raíz do projeto. Utilize o terminal que preferir para a execução do comando.
+ - Com a execução do comando bem sucedida, é necessário debugar aplicação. Para isso, execute o comando ```react-native run-android``` no diretório raíz do projeto.
+ - O comando citado acima é referente ao debug no sistema Android, para debugar no iOS utilize o comando ```react-native run-ios```
+ - Com o sucesso na execução no comando a aplicação é instalado no dispositivo e está pronto para testes.
+ - Caso de algum erro de debug, verifique se o erro não está em seu dispositivo e se configurou o ambiente seguindo o [tutorial oferecido pelo Facebook](https://facebook.github.io/react-native/docs/getting-started).
 
 ## Desenvolvedor:
   [@leandrosouzaa](https://github.com/leandrosouzaa)
